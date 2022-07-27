@@ -1,0 +1,25 @@
+{
+    "firstName":"Raji",
+    "lastName":"A",
+    "email":"rajeshwari@cintap.com",
+    "password":"Pass123",
+    "addresses":[
+        
+  {
+	   "city": "Vijayawada",
+	   "country": "India",
+	   "streetName":"500th Cross",
+	   "postalCode":"000998",
+	   "type": "Shipping"
+        },
+        {
+	   "city": "Delhi",
+	   "country": "India",
+	   "streetName":"123th Cross",
+	   "postalCode":"908543",
+	   "type": "Shipping"
+        }
+   
+      
+    ]
+}

@@ -1,0 +1,26 @@
+{
+  "userId": "wnsEcY0NjnuOwi1dByOv",
+  "firstName": "Mery",
+  "lastName": "A",
+  "email": "bangaram.raji@gmail.com",
+  "addresses": [
+    {
+      "addressId": "OUd6eirLyDEMJWf1dbhwwUR2ztVV15",
+      "city": "Hyd",
+      "country": "India",
+      "streetName": "15th Cross",
+      "postalCode": "567099",
+      "type": "Billing",
+      "links": []
+    },
+    {
+      "addressId": "mtU28iLJf8HYpkuHGrkHY7KZ3m8V8M",
+      "city": "Kmm",
+      "country": "India",
+      "streetName": "123th Cross",
+      "postalCode": "678543",
+      "type": "Shipping",
+      "links": []
+    }
+  ]
+}

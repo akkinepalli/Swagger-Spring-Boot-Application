@@ -1,0 +1,26 @@
+{
+  "userId": "z2vpv0FInJ1SN0bQIHhT",
+  "firstName": "Raji",
+  "lastName": "A",
+  "email": "rajeshwari@cintap.com",
+  "addresses": [
+    {
+      "addressId": "hksgbglRKmzJ0Js6muaRSU45lShyQ8",
+      "city": "Bangalore",
+      "country": "India",
+      "streetName": "15th Cross",
+      "postalCode": "567099",
+      "type": "Billing",
+      "links": []
+    },
+    {
+      "addressId": "PZkvf88Tw1QFx5Uai8vljzWUcoeZKK",
+      "city": "Chennai",
+      "country": "India",
+      "streetName": "123th Cross",
+      "postalCode": "678543",
+      "type": "Shipping",
+      "links": []
+    }
+  ]
+}
